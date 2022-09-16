@@ -16,7 +16,6 @@ In This CrowdFunding Web App we will allow users to :
 * [Html]
 * [CSS]
 * [Bootstarp]
-* 
 ## Installation
 - Python 
 - Pip  
@@ -29,15 +28,15 @@ In This CrowdFunding Web App we will allow users to :
 	```
 - Create and Activate VirtualEnvironment
 	```
-	virtualenv name
+	virtualenv name(venv)
 	```
 	```
-	source name/bin/activate(for : mach/linux)
-	
+	Linux : source name/bin/activate       
+	Windows : name(venv)/Scripts/activate
 	```
 - Install requirments
 	```
-	pip install -r CrowdFunding/requirements.txt
+	pip install (READ requirements.txt)
 	
 	make sure u follow instructions in requirements.txt 
 	follow it step by step 
