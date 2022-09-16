@@ -1,9 +1,9 @@
 CrowdFunding Web App Using Python "Django-FrameWork"
 
-About the Project:
-CrowdFunding Web App that allow user:
-- signup and login
-- Create and modify profile data
+## About the Project:
+In This CrowdFunding Web App we will allow users to :
+- sign-up and login
+- Create and modify profile data (bd-pp)
 - Create projects and donate for projects 
 - Delete his projects
 - Comment on projects
