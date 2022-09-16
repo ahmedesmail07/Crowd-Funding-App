@@ -1,4 +1,5 @@
-# Crowd-Funding
+#Crowd-Funding
+
 CrowdFunding Web App in Python "Django"
 
 ## About the Project:
@@ -12,34 +13,40 @@ CrowdFunding Web App that allow user:
 - Show projetcs details and rate projects
 
 ## Built With:
-* [Django Framwork](https://docs.djangoproject.com/en/3.0/)
-* [Sqlite Database](https://www.sqlite.org/docs.html)
-* [Html](https://www.w3schools.com/TAGS/default.ASP)
-* [CSS](https://www.w3schools.com/css/default.asp)
-* [Bootstarp](https://getbootstrap.com/docs/4.4/getting-started/introduction/)
-
+* [Django Framwork]
+* [Sqlite Database]
+* [Html]
+* [CSS]
+* [Bootstarp]
+* 
 ## Installation
-- Python 3.6
+- Python 
 - Pip  
 	``` 
-	python3 -m pip install --upgrade pip 
+	python -m pip install --upgrade pip 
 	```
 - VirtualEnvironment
 	```
-	pip3 install virtualenv
+	pip install virtualenv
 	```
 - Create and Activate VirtualEnvironment
 	```
 	virtualenv name
 	```
 	```
-	source name/bin/activate
+	source name/bin/activate(for : mach/linux)
+	
 	```
 - Install requirments
 	```
-	pip3 install -r CrowdFunding/requirements.txt
+	pip install -r CrowdFunding/requirements.txt
+	
+	make sure u follow instructions in requirements.txt 
+	follow it step by step 
+	
 	```
+	
 - Run server in crowdfunding directory
 	```
-	python3 manage.py runserver
+	python manage.py runserver
 	```
